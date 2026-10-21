@@ -1,0 +1,170 @@
+[
+  {
+    "alt": "Autobahn.svg",
+    "neu": "icons/orte/autobahn.svg",
+    "blob_sha": "825be1213925d2b9d045c1f33493fe1ca20ec0da",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/Autobahn.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/orte/autobahn.svg"
+  },
+  {
+    "alt": "Autobahnausfahrt.svg",
+    "neu": "icons/orte/autobahnausfahrt.svg",
+    "blob_sha": "e7ffa5ad2549d89edd521d688d0e15edb2b04b0e",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/Autobahnausfahrt.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/orte/autobahnausfahrt.svg"
+  },
+  {
+    "alt": "Autobahnkreuz_oder_-dreieck.svg",
+    "neu": "icons/orte/autobahnkreuz-oder-dreieck.svg",
+    "blob_sha": "f0810aef7576d3311f3cd9c5d1f6d9d3ca13eb0a",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/Autobahnkreuz_oder_-dreieck.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/orte/autobahnkreuz-oder-dreieck.svg"
+  },
+  {
+    "alt": "BF4.svg",
+    "neu": "icons/begleitung/bf4.svg",
+    "blob_sha": "1933cb7b0f6aa7f1a482fd3e2dc4d1fdb21913cb",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/BF4.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/begleitung/bf4.svg"
+  },
+  {
+    "alt": "Bruecken_extern.geojson",
+    "neu": "data/bruecken/bruecken-gesamt.geojson",
+    "blob_sha": "6788e955faaa77bd9bc93c70aed11cf8e9ad6ecf",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/Bruecken_extern.geojson",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/data/bruecken/bruecken-gesamt.geojson"
+  },
+  {
+    "alt": "Industriegebiet.svg",
+    "neu": "icons/orte/industriegebiet.svg",
+    "blob_sha": "fb51d7b2c78b870e743f9c56d3ffe57aabdb31c2",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/Industriegebiet.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/orte/industriegebiet.svg"
+  },
+  {
+    "alt": "VZ_101.svg",
+    "neu": "icons/verkehrszeichen/vz-101.svg",
+    "blob_sha": "d399442a10e479bbb92058b13e1aafa2fbcd3503",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/VZ_101.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/verkehrszeichen/vz-101.svg"
+  },
+  {
+    "alt": "VZ_123.svg",
+    "neu": "icons/verkehrszeichen/vz-123.svg",
+    "blob_sha": "d2036bdfd2efbf6a6d3943d7719a6f8aae643f98",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/VZ_123.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/verkehrszeichen/vz-123.svg"
+  },
+  {
+    "alt": "VZ_151.svg",
+    "neu": "icons/verkehrszeichen/vz-151.svg",
+    "blob_sha": "20a682e4cca58a63f8f6ed934d47318849843c46",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/VZ_151.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/verkehrszeichen/vz-151.svg"
+  },
+  {
+    "alt": "VZ_215.svg",
+    "neu": "icons/verkehrszeichen/vz-215.svg",
+    "blob_sha": "c6925922bbbd9a5b451a619742f0ec8a2b6e72ab",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/VZ_215.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/verkehrszeichen/vz-215.svg"
+  },
+  {
+    "alt": "VZ_250.svg",
+    "neu": "icons/verkehrszeichen/vz-250.svg",
+    "blob_sha": "337c0128a90bb6362a6b04eec481ade0f8887fb6",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/VZ_250.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/verkehrszeichen/vz-250.svg"
+  },
+  {
+    "alt": "VZ_253.svg",
+    "neu": "icons/verkehrszeichen/vz-253.svg",
+    "blob_sha": "312438e540a5a344ce4e1269556634bae9b50aa3",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/VZ_253.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/verkehrszeichen/vz-253.svg"
+  },
+  {
+    "alt": "VZ_262_20t.svg",
+    "neu": "icons/verkehrszeichen/vz-262-20t.svg",
+    "blob_sha": "0c17f7d7fd9e447a483bd889bd2a8f0bef8ce672",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/VZ_262_20t.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/verkehrszeichen/vz-262-20t.svg"
+  },
+  {
+    "alt": "VZ_262_40t.svg",
+    "neu": "icons/verkehrszeichen/vz-262-40t.svg",
+    "blob_sha": "537540d16ff1f0cea3ca4ff18eac7c861a7c4d53",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/VZ_262_40t.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/verkehrszeichen/vz-262-40t.svg"
+  },
+  {
+    "alt": "VZ_262_5_5t.svg",
+    "neu": "icons/verkehrszeichen/vz-262-5_5t.svg",
+    "blob_sha": "ec6a979fb6649895c0c2973c0c85e0642304b6ad",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/VZ_262_5_5t.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/verkehrszeichen/vz-262-5_5t.svg"
+  },
+  {
+    "alt": "VZ_263_8t.svg",
+    "neu": "icons/verkehrszeichen/vz-263-8t.svg",
+    "blob_sha": "62abfd8ff8522d0c7d1277b093104c485fa13864",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/VZ_263_8t.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/verkehrszeichen/vz-263-8t.svg"
+  },
+  {
+    "alt": "VZ_265-3_8.svg",
+    "neu": "icons/verkehrszeichen/vz-265-3_8m.svg",
+    "blob_sha": "493c32954fe77dfbf627024d3086330733fec7e3",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/VZ_265-3_8.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/verkehrszeichen/vz-265-3_8m.svg"
+  },
+  {
+    "alt": "VZ_327.svg",
+    "neu": "icons/verkehrszeichen/vz-327.svg",
+    "blob_sha": "2ca4f8cf88e239148c77a7164be7a924d828df6f",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/VZ_327.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/verkehrszeichen/vz-327.svg"
+  },
+  {
+    "alt": "VZ_330.1.svg",
+    "neu": "icons/verkehrszeichen/vz-330.1.svg",
+    "blob_sha": "a97d24fc6d4d8ee7f7da8357146c8dc3df67f86d",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/VZ_330.1.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/verkehrszeichen/vz-330.1.svg"
+  },
+  {
+    "alt": "VZ_331.1.svg",
+    "neu": "icons/verkehrszeichen/vz-331.1.svg",
+    "blob_sha": "de409a8a7cbbb68fdd70f46a945cfc9a7efe4e52",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/VZ_331.1.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/verkehrszeichen/vz-331.1.svg"
+  },
+  {
+    "alt": "Zusatzzeichen_1048-18.svg",
+    "neu": "icons/zusatzzeichen/zz-1048-18.svg",
+    "blob_sha": "611c0048d34425d0b8a7a2d41c719fbf882f3024",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/Zusatzzeichen_1048-18.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/zusatzzeichen/zz-1048-18.svg"
+  },
+  {
+    "alt": "Zusatzzeichen_1053-33_16t.svg",
+    "neu": "icons/zusatzzeichen/zz-1053-33-16t.svg",
+    "blob_sha": "a81fc39f44c874275f52a73c4dc4a8a9e109f6d1",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/Zusatzzeichen_1053-33_16t.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/zusatzzeichen/zz-1053-33-16t.svg"
+  },
+  {
+    "alt": "Zusatzzeichen_1053-33_7_5t.svg",
+    "neu": "icons/zusatzzeichen/zz-1053-33-7_5t.svg",
+    "blob_sha": "4751b1f9a1dd09081bdebe38768eecfacc56f3cb",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/Zusatzzeichen_1053-33_7_5t.svg",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/icons/zusatzzeichen/zz-1053-33-7_5t.svg"
+  },
+  {
+    "alt": "landkreis-sigmaringen.geojson",
+    "neu": "data/grenzen/landkreis-sigmaringen.geojson",
+    "blob_sha": "d98f7754524e3101ae2722d952f663456c0ec04a",
+    "alte_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/landkreis-sigmaringen.geojson",
+    "neue_url": "https://raw.githubusercontent.com/googie0815/umap-icons/main/data/grenzen/landkreis-sigmaringen.geojson"
+  }
+]
